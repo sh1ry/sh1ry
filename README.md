@@ -2,4 +2,4 @@
 
 I'm Efe and I like listen rock music and especially I like listening to Nirvana
 
-I'm currently contribute projects about applications & websites & minecraft
+currently working on java,javascript,python and c++
